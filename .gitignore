@@ -1,0 +1,4 @@
+nnode_modules/
+.env
+coverage/
+dist/
